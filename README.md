@@ -1,2 +1,2 @@
 # Sign2Text
-Sign2text is a system that converts sign language gestures into text using computer vision and machine learning, enhancing communication and accessibility.
+Sign2text is an innovative project that aims to bridge the communication gap for the deaf and hard of hearing community by converting sign language gestures into text. Utilizing advanced computer vision techniques and machine learning models, the system accurately recognizes hand gestures and translates them into meaningful text in real time. This project contributes towards fostering inclusivity and improving accessibility in digital communication.
